@@ -1,14 +1,12 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Kaxit Pandya
 ====================================================================================================================================
 
-Web Developer
--------------
 
 Just completed Node and Express
 
-* 🌍  I'm based in India
+* 🌍  I'm based in Canada
 * ✉️  You can contact me at [kaxitpandya@gmail.com](mailto:kaxitpandya@gmail.com)
-* 🧠  I'm learning MongoDB
+* 🧠  I'm learning GenAI
 
 ### Skills
 
