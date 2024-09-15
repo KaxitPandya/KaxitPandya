@@ -2,8 +2,6 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 ====================================================================================================================================
 
 
-Just completed Node and Express
-
 * 🌍  I'm based in Canada
 * ✉️  You can contact me at [kaxitpandya@gmail.com](mailto:kaxitpandya@gmail.com)
 * 🧠  I'm learning GenAI
